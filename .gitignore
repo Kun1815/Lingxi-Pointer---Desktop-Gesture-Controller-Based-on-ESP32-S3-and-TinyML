@@ -1,0 +1,21 @@
+﻿# 平台编译缓存
+.pio/
+.vscode/
+
+# Python 虚拟环境
+.venv/
+__pycache__/
+*.pyc
+
+# 采集的原始数据（太大了，不上传）
+data/
+data_backup*/
+*.csv
+
+# 训练输出的中间文件
+output/*.npz
+output/*.png
+
+# 系统文件
+.DS_Store
+Thumbs.db
