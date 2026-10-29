@@ -6,8 +6,8 @@
 
 ## 📸 演示 (Demo)
 
-*(在这里放一张你的实物图或演示动图，直接把图片拖拽进 GitHub 编辑框即可生成链接)*
-![Device Demo](https://via.placeholder.com/800x400.png?text=Your+Awesome+Photo+Here)
+![Uploading dfc23ad205db4c7294fa439febb68c39.jpg…]()
+
 
 ## 🌟 功能特点
 
